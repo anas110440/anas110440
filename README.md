@@ -33,7 +33,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 ![Next.js](https://img.shields.io/badge/Next.js-%23000.svg?logo=Next.js&logoColor=white) 
 ![NPM](https://img.shields.io/badge/NPM-%23CC3534.svg?logo=NPM&logoColor=white) 
 ![Wordpress](https://img.shields.io/badge/Wordpress-%2321759b.svg?logo=Wordpress&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/c-%234DB33D.svg?logo=MongoDB&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234DB33D.svg?logo=MongoDB&logoColor=white) 
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?logo=Material-UI&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?logo=MySQL&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?logo=Firebase&logoColor=black)
