@@ -8,20 +8,24 @@
 </p>
 
 # 💫 About Me:
-- 🌱 I’m currently learning **Web 3**
-
-- 👨‍💻 All of my projects are available at **<a href="https://anas110440.github.io/My-webaite/" target="_blank"> My Portfolio </a>**
-
-- 📫 How to reach me? **<a href="https://anas110440.github.io/My-webaite/" target="_blank"> Contact Me Here </a>**
-
-- 📄 Know about my experiences **<a href="https://anas110440.github.io/My-webaite/" target="_blank"> Know me more! </a>**
-
+As a Front End Developer with over 2 years of experience, I have a strong background in creating userfriendly
+and visually appealing websites and applications. I have experience in collaborating with
+designers and back-end developers to create responsive designs and ensure cross-browser
+compatibility. In addition, I am a quick learner and self-starter.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anascodex) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anascodex) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anascodex) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@yousef-alamir) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anascodex) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anascodex) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anascodex) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/anascodex) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anascodex) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anascodex) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anascodex) 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639)
+![Html 5](https://img.shields.io/badge/HTML5-%23e34c26.svg?logo=Html5&logoColor=white)
+![Css 3](https://img.shields.io/badge/Css3-%23264de4.svg?logo=Css3&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-%23F0DB4F.svg?logo=javascript&logoColor=black) 
+![TailwindCss](https://img.shields.io/badge/TailwindCss-%2306b6d4.svg?logo=TailwindCss&logoColor=white) 
+![Bootstrap 5](https://img.shields.io/badge/Bootstrap-%23563d7c.svg?logo=Bootstrap&logoColor=white) 
+![React](https://img.shields.io/badge/React-%231877F2.svg?logo=React&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-%2368a063.svg?logo=Node.js&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-%23000.svg?logo=Next.js&logoColor=white) 
+![NPM](https://img.shields.io/badge/NPM-%23CC3534.svg?logo=NPM&logoColor=white) 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=anas110440&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anas110440&theme=blue-green&hide_border=true)<br/>
