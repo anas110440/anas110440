@@ -1,6 +1,4 @@
 <h1 align="center">Hola 👋,<br/> I'm Anas Naser</h1>
-<h3 align="center">Hi, I’m Anas, a Programmer and a Full Stack Web Developer who loves building creative and amazing websites.
-</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anas110440&label=Profile%20views&color=0e75b6&style=flat" alt="anas110440" /> 
 
