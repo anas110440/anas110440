@@ -20,7 +20,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 ![Html 5](https://img.shields.io/badge/HTML5-%23e34c26.svg?logo=Html5&logoColor=white)
 ![Css 3](https://img.shields.io/badge/Css3-%23264de4.svg?logo=Css3&logoColor=white)
 ![javascript](https://img.shields.io/badge/javascript-%23F0DB4F.svg?logo=javascript&logoColor=black) 
-![TailwindCss](https://img.shields.io/badge/TailwindCss-%2306b6d4.svg?logo=TailwindCss&logoColor=white) 
+![TailwindCss](https://img.shields.io/badge/Tailwind-%2306b6d4.svg?logo=TailwindCss&logoColor=white) 
 ![Bootstrap 5](https://img.shields.io/badge/Bootstrap-%23563d7c.svg?logo=Bootstrap&logoColor=white) 
 ![React](https://img.shields.io/badge/React-%231877F2.svg?logo=React&logoColor=white) 
 ![Node.js](https://img.shields.io/badge/Node.js-%2368a063.svg?logo=Node.js&logoColor=white) 
