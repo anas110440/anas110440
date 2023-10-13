@@ -79,7 +79,7 @@ https://www.sololearn.com/certificates/CT-AHRD4LMH
 
 # 💼 Work Experience:
 
-  <h2>Full Stack Developer</h2>
+<h2>Full Stack Developer</h2>
   <h3>NQ7 Group</h3>
 
   <div style="display: flex; align-items: center; justify-content: space-between;">
@@ -132,7 +132,9 @@ Technology and Multimedia Services</p>
 </div>
   <p>BlackGem established in 2018, continue to offer technical services such
   as websites, applications, and software</p>
-<hr/>
+  <hr/>
+
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=anas110440&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
@@ -141,12 +143,12 @@ Technology and Multimedia Services</p>
 
   <hr/>
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=anas110440&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
   <hr/>
 
-### ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
