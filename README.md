@@ -12,7 +12,6 @@ and visually appealing websites and applications. I have experience in collabora
 designers and back-end developers to create responsive designs and ensure cross-browser
 compatibility. In addition, I am a quick learner and self-starter.
 
-
 # 🌐 Socials:
 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/anascodex)
@@ -20,7 +19,6 @@ compatibility. In addition, I am a quick learner and self-starter.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anascodex)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anascodex)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anascodex)
-
 
 # 💻 Tech Stack:
 
@@ -46,7 +44,6 @@ compatibility. In addition, I am a quick learner and self-starter.
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jQuery&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)
 
-
 # 📜 Licenses & Certifications:
 
 - HTML <br/>
@@ -71,64 +68,42 @@ compatibility. In addition, I am a quick learner and self-starter.
   https://www.sololearn.com/certificates/CT-AHRD4LMH
 
 - Freelancing Basics <br/>
-https://www.sololearn.com/certificates/CT-AHRD4LMH
+  https://www.sololearn.com/certificates/CT-AHRD4LMH
 
 # 💼 Work Experience:
 
-<h2>Full Stack Developer</h2>
-  <h3>NQ7 Group</h3>
-
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-  <p>10/2022 - Present</p>
-  <p>Sana'a, Yemen</p>
-  </div>
-  <p>NQ7 Technologies is a company founded in Yemen in 2021, specialized in
+- Full Stack Developer <br/>
+  NQ7 Group <br/>
+  10/2022 - Present <br/>
+  NQ7 Technologies is a company founded in Yemen in 2021, specialized in
   web designs, mobile application development, and design of differing
   sizes for individuals, companies, banks, and governments.
-  Determining the structure and design of web pages.</p>
+  Determining the structure and design of web pages.<br/>
 
-  <hr/>
-  <h2>Senior Frontend Developer</h2>  
-  <h3>Unicom Group</h3>
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-  <p>11/2022 - 02/2023</p>
-  <p>Sana'a, Yemen</p>
-  </div>
-  <p>Unicom is one of the leading companies in the fields of information
+- Senior Frontend Developer <br/>
+  Unicom Group
+  11/2022 - 02/2023 <br/>
+  Unicom is one of the leading companies in the fields of information
   technology, integrated telecom solutions and supply chain management
-  solutions</p>
- 
-  <hr/>
-  <h2>Full Stack Developer</h2>  
-  <h3>Meem Graphics</h3>
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-  <p>06/2022 - 10/2022</p>
-  <p>Sana'a, Yemen</p>
-  </div>
-  <p>A Yemeni company seeks to pioneer e-marketing andcreativity in the
-  graphics design and content industry</p>
+  solutions
 
-  <hr/>
+- Full Stack Developer <br/>
+  Meem Graphics <br/>
+  06/2022 - 10/2022 <br/>
+  A Yemeni company seeks to pioneer e-marketing andcreativity in the
+  graphics design and content industry
 
-  <h2>Front End Developer Remotely</h2>
-  <h3>Nerdo Yemen</h3>
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-  <p>05/2021 - 06/2023</p>
-  <p>Sana'a, Yemen</p>
-  </div>
-  <p>Nerdo is a young experts company that provides advanced Information
-Technology and Multimedia Services</p>
+-Front End Developer Remotely<br/>
+Nerdo Yemen<br/>
+05/2021 - 06/2023<br/>
+Nerdo is a young experts company that provides advanced Information
+Technology and Multimedia Services
 
-  <hr/>
-  <h2>React Developer</h2>  
-  <h3>Blackgem Company</h3>
-    <div style="display: flex; align-items: center; justify-content: space-between;">
-  <p>11/2021 - 09/2022</p>
-  <p>Sana'a, Yemen</p>
-</div>
-  <p>BlackGem established in 2018, continue to offer technical services such
-  as websites, applications, and software</p>
-
+- React Developer<br/>
+  Blackgem Company<br/>
+  11/2021 - 09/2022<br/>
+  BlackGem established in 2018, continue to offer technical services such
+  as websites, applications, and software
 
 # 📊 GitHub Stats:
 
@@ -136,11 +111,9 @@ Technology and Multimedia Services</p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anas110440&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas110440&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-
 # 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=anas110440&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
 
 # ✍️ Random Dev Quote
 
