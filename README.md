@@ -108,10 +108,15 @@ compatibility. In addition, I am a quick learner and self-starter.
 
 # 🏫 Education:
 
-- The National University of Yemen <br/>
-  Degree : Bachelor's degree in Information Technology<br/>
+- Bachelor's degree in Information Technology<br/>
+  The National University of Yemen <br/>
   Grade : Very Good with honors <br/>
   From : 10/2017 to : 09/2021
+
+- Intermediate Diploma in English Language<br/>
+  Mali Institute<br/>
+  Grade : Very Good <br/>
+  From : 01/2016 to : 08/2016
 
 # 📊 GitHub Stats:
 
