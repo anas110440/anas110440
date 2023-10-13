@@ -42,7 +42,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=TypeScript&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=Express&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jQuery&logoColor=white)
-[![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=Laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=Laravel&logoColor=white)
 
 # 📜 Licenses & Certifications:
 
