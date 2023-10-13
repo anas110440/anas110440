@@ -106,6 +106,13 @@ compatibility. In addition, I am a quick learner and self-starter.
   BlackGem established in 2018, continue to offer technical services such
   as websites, applications, and software
 
+# 🏫 Education:
+
+- The National University of Yemen <br/>
+  Degree : Bachelor's degree in Information Technology<br/>
+  Grade : Very Good with honors <br/>
+  From : 10/2017 to : 09/2021
+
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=anas110440&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
