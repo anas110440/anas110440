@@ -12,7 +12,6 @@ and visually appealing websites and applications. I have experience in collabora
 designers and back-end developers to create responsive designs and ensure cross-browser
 compatibility. In addition, I am a quick learner and self-starter.
 
-<hr/>
 
 # 🌐 Socials:
 
@@ -22,7 +21,6 @@ compatibility. In addition, I am a quick learner and self-starter.
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/anascodex)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/anascodex)
 
-<hr/>
 
 # 💻 Tech Stack:
 
@@ -48,7 +46,6 @@ compatibility. In addition, I am a quick learner and self-starter.
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jQuery&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?logo=Python&logoColor=white)
 
-<hr/>
 
 # 📜 Licenses & Certifications:
 
@@ -75,7 +72,6 @@ compatibility. In addition, I am a quick learner and self-starter.
 
 - Freelancing Basics <br/>
 https://www.sololearn.com/certificates/CT-AHRD4LMH
-<hr/>
 
 # 💼 Work Experience:
 
@@ -132,7 +128,6 @@ Technology and Multimedia Services</p>
 </div>
   <p>BlackGem established in 2018, continue to offer technical services such
   as websites, applications, and software</p>
-  <hr/>
 
 
 # 📊 GitHub Stats:
@@ -141,13 +136,11 @@ Technology and Multimedia Services</p>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anas110440&theme=blue-green&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anas110440&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-  <hr/>
 
 # 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=anas110440&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-  <hr/>
 
 # ✍️ Random Dev Quote
 
