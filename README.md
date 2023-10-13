@@ -43,6 +43,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=Express&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jQuery&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=Laravel&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-%231572B6.svg?logo=Adobe%20Photoshop&logoColor=white)
 
 # 📜 Licenses & Certifications:
 
