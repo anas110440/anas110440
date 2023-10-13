@@ -77,7 +77,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 https://www.sololearn.com/certificates/CT-AHRD4LMH
 <hr/>
 
-# 📜 Work Experience:
+# 💼 Work Experience:
 
   <h3>Full Stack Developer</h3>
   <h4>NQ7 Group</h4>
