@@ -77,13 +77,12 @@ compatibility. In addition, I am a quick learner and self-starter.
 https://www.sololearn.com/certificates/CT-AHRD4LMH
 <hr/>
 
-# 💼 Work Experience:
+# 📜 Work Experience:
 
   <h3>Full Stack Developer</h3>
   <h4>NQ7 Group</h4>
-  <div style="display: flex;
-  align-items: center;
-  justify-content: space-between;">
+
+  <div style="display: flex; align-items: center; justify-content: space-between;">
   <p>10/2022 - Present</p>
   <p>Sana'a, Yemen</p>
   </div>
@@ -96,9 +95,7 @@ https://www.sololearn.com/certificates/CT-AHRD4LMH
   <hr/>
   <h3>Senior Frontend Developer</h3>  
   <h4>Unicom Group</h4>
-  <div style="display: flex;
-  align-items: center;
-  justify-content: space-between;">
+  <div style="display: flex; align-items: center; justify-content: space-between;">
   <p>11/2022 - 02/2023</p>
   <p>Sana'a, Yemen</p>
   </div>
@@ -110,9 +107,7 @@ https://www.sololearn.com/certificates/CT-AHRD4LMH
   <hr/>
   <h3>Full Stack Developer</h3>  
   <h4>Meem Graphics</h4>
-  <div style="display: flex;
-  align-items: center;
-  justify-content: space-between;">
+  <div style="display: flex; align-items: center; justify-content: space-between;">
   <p>06/2022 - 10/2022</p>
   <p>Sana'a, Yemen</p>
   </div>
@@ -124,9 +119,7 @@ https://www.sololearn.com/certificates/CT-AHRD4LMH
 
   <h3>Front End Developer Remotely</h3>
   <h4>Nerdo Yemen</h4>
-  <div style="display: flex;
-  align-items: center;
-  justify-content: space-between;">
+  <div style="display: flex; align-items: center; justify-content: space-between;">
   <p>05/2021 - 06/2023</p>
   <p>Sana'a, Yemen</p>
   </div>
@@ -137,9 +130,7 @@ Technology and Multimedia Services
   <hr/>
   <h3>React Developer</h3>  
   <h4>Blackgem Company</h4>
-  <div style="display: flex;
-  align-items: center;
-  justify-content: space-between;">
+  <div style="display: flex; align-items: center; justify-content: space-between;">
   <p>11/2021 - 09/2022</p>
   <p>Sana'a, Yemen</p>
   </div>
