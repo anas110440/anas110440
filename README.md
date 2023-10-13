@@ -130,10 +130,12 @@ Technology and Multimedia Services
   <hr/>
   <h3>React Developer</h3>  
   <h4>Blackgem Company</h4>
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-  <p>11/2021 - 09/2022</p>
-  <p>Sana'a, Yemen</p>
-  </div>
+ <div align="center">
+  <p style="display: flex; align-items: center; justify-content: space-between;">
+    <span>11/2021 - 09/2022</span>
+    <span>Sana'a, Yemen</span>
+  </p>
+</div>
   <p>BlackGem established in 2018, continue to offer technical services such
   as websites, applications, and software
   </p>
