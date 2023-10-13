@@ -29,7 +29,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jQuery&logoColor=white)
 ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?logo=Sass&logoColor=white)
 ![Tailwind Css](https://img.shields.io/badge/TailwindCss-%2306b6d4.svg?logo=TailwindCss&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-%2361DAFB.svg?logo=React&logoColor=white)
+![React](https://img.shields.io/badge/React.js-%231877F2.svg?logo=React&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?logo=Node.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-%23000.svg?logo=Next.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CC3534.svg?logo=NPM&logoColor=white)
