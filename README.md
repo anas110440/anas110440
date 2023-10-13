@@ -132,7 +132,7 @@ Technology and Multimedia Services</p>
 </div>
   <p>BlackGem established in 2018, continue to offer technical services such
   as websites, applications, and software</p>
-
+<hr/>
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=anas110440&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true)<br/>
