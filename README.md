@@ -23,7 +23,7 @@ compatibility. In addition, I am a quick learner and self-starter.
 # 💻 Tech Stack:
 
 ![Html 5](https://img.shields.io/badge/HTML5-%23e34c26.svg?logo=Html5&logoColor=white)
-![Css 3](https://img.shields.io/badge/Css3-%23264de4.svg?logo=Css3&logoColor=white)
+![Css 3](https://img.shields.io/badge/Css3-%231572B6.svg?logo=Css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=JavaScript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap5-%237952B3.svg?logo=Bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?logo=jQuery&logoColor=white)
