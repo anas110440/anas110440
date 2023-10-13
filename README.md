@@ -79,26 +79,26 @@ compatibility. In addition, I am a quick learner and self-starter.
   web designs, mobile application development, and design of differing
   sizes for individuals, companies, banks, and governments.
   Determining the structure and design of web pages.<br/>
- <br/>
+
 - Senior Frontend Developer <br/>
   Unicom Group
   11/2022 - 02/2023 <br/>
   Unicom is one of the leading companies in the fields of information
   technology, integrated telecom solutions and supply chain management
   solutions
- <br/>
+
 - Full Stack Developer <br/>
   Meem Graphics <br/>
   06/2022 - 10/2022 <br/>
   A Yemeni company seeks to pioneer e-marketing andcreativity in the
   graphics design and content industry
- <br/>
+
 - Front End Developer Remotely <br/>
   Nerdo Yemen<br/>
   05/2021 - 06/2023<br/>
   Nerdo is a young experts company that provides advanced Information
   Technology and Multimedia Services
- <br/>
+
 - React Developer<br/>
   Blackgem Company<br/>
   11/2021 - 09/2022<br/>
