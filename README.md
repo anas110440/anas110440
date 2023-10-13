@@ -77,10 +77,10 @@ compatibility. In addition, I am a quick learner and self-starter.
 https://www.sololearn.com/certificates/CT-AHRD4LMH
 <hr/>
 
-# 📜 Work Experience:
+# 💼 Work Experience:
 
-  <h3>Full Stack Developer</h3>
-  <h4>NQ7 Group</h4>
+  <h2>Full Stack Developer</h2>
+  <h3>NQ7 Group</h3>
 
   <div style="display: flex; align-items: center; justify-content: space-between;">
   <p>10/2022 - Present</p>
@@ -89,52 +89,49 @@ https://www.sololearn.com/certificates/CT-AHRD4LMH
   <p>NQ7 Technologies is a company founded in Yemen in 2021, specialized in
   web designs, mobile application development, and design of differing
   sizes for individuals, companies, banks, and governments.
-  Determining the structure and design of web pages.
-  </p>
+  Determining the structure and design of web pages.</p>
 
   <hr/>
-  <h3>Senior Frontend Developer</h3>  
-  <h4>Unicom Group</h4>
+  <h2>Senior Frontend Developer</h2>  
+  <h3>Unicom Group</h3>
   <div style="display: flex; align-items: center; justify-content: space-between;">
   <p>11/2022 - 02/2023</p>
   <p>Sana'a, Yemen</p>
   </div>
   <p>Unicom is one of the leading companies in the fields of information
   technology, integrated telecom solutions and supply chain management
-  solutions
-  </p>
+  solutions</p>
  
   <hr/>
-  <h3>Full Stack Developer</h3>  
-  <h4>Meem Graphics</h4>
+  <h2>Full Stack Developer</h2>  
+  <h3>Meem Graphics</h3>
   <div style="display: flex; align-items: center; justify-content: space-between;">
   <p>06/2022 - 10/2022</p>
   <p>Sana'a, Yemen</p>
   </div>
   <p>A Yemeni company seeks to pioneer e-marketing andcreativity in the
-  graphics design and content industry
-  </p>
+  graphics design and content industry</p>
 
   <hr/>
 
-  <h3>Front End Developer Remotely</h3>
-  <h4>Nerdo Yemen</h4>
+  <h2>Front End Developer Remotely</h2>
+  <h3>Nerdo Yemen</h3>
   <div style="display: flex; align-items: center; justify-content: space-between;">
   <p>05/2021 - 06/2023</p>
   <p>Sana'a, Yemen</p>
   </div>
   <p>Nerdo is a young experts company that provides advanced Information
-
-Technology and Multimedia Services
+Technology and Multimedia Services</p>
 
   <hr/>
-  <h3>React Developer</h3>  
-  <h4>Blackgem Company</h4>
-    <span align="left">11/2021 - 09/2022</span>
-    <span align="right">Sana'a, Yemen</span>
+  <h2>React Developer</h2>  
+  <h3>Blackgem Company</h3>
+    <div style="display: flex; align-items: center; justify-content: space-between;">
+  <p>11/2021 - 09/2022</p>
+  <p>Sana'a, Yemen</p>
+</div>
   <p>BlackGem established in 2018, continue to offer technical services such
-  as websites, applications, and software
-  </p>
+  as websites, applications, and software</p>
 
 # 📊 GitHub Stats:
 
