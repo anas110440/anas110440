@@ -69,7 +69,7 @@ compatibility. In addition, I am a quick learner and self-starter.
   https://www.sololearn.com/certificates/CT-AHRD4LMH
 
 - Freelancing Basics <br/>
-  https://www.sololearn.com/certificates/CT-AHRD4LMH
+  https://maharatech.gov.eg/mod/customcert/verify_certificate.php?contextid=1788&code=MObdNKCdsB&qrcode=1
 
 # 💼 Work Experience:
 
